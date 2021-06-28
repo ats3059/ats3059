@@ -10,7 +10,7 @@
 ## Stack
 
 - Java
-- Spring
-- Html,CSS,JavaScript
+- Spring FrameWork
+- Html,CSS,JavaScript(es6)
 - Mybatis
-
+- React(Function)
